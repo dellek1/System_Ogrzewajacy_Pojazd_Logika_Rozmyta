@@ -1,0 +1,145 @@
+C:\Users\dawid\Desktop\Proj ZSI\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\dawid\Desktop\Proj ZSI\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dawid\Desktop\Proj ZSI\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\dawid\Desktop\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dawid\Desktop\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dawid\Desktop\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\dawid\Desktop\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\dawid\Desktop\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OgrzewanieFrame.resources
+C:\Users\dawid\Desktop\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TempOtoczenia.resources
+C:\Users\dawid\Desktop\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TempPiecykForm.resources
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OgrzewanieFrame.resources
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TempOtoczenia.resources
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TempPiecykForm.resources
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI — kopia\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI — kopia\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI — kopia\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OgrzewanieFrame.resources
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI — kopia\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI — kopia\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TempOtoczenia.resources
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI — kopia\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TempPiecykForm.resources
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI — kopia\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI — kopia\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI — kopia\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI — kopia\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI — kopia\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI — kopia\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dawid\Desktop\ZSI — kopia\Proj ZSI — kopia\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\radja\Desktop\ProjZSI\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\radja\Desktop\ProjZSI\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\radja\Desktop\ProjZSI\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\radja\Desktop\ProjZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\radja\Desktop\ProjZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\radja\Desktop\ProjZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OgrzewanieFrame.resources
+C:\Users\radja\Desktop\ProjZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\radja\Desktop\ProjZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TempOtoczenia.resources
+C:\Users\radja\Desktop\ProjZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TempPiecykForm.resources
+C:\Users\radja\Desktop\ProjZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\radja\Desktop\ProjZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\radja\Desktop\ProjZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\radja\Desktop\ProjZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\dawid\Desktop\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\dawid\Desktop\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dawid\Desktop\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\dawid\Desktop\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\dawid\Desktop\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OgrzewanieFrame.resources
+C:\Users\dawid\Desktop\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dawid\Desktop\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TempOtoczenia.resources
+C:\Users\dawid\Desktop\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TempPiecykForm.resources
+C:\Users\dawid\Desktop\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dawid\Desktop\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\dawid\Desktop\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\ZSI — kopia\ProjZSi DZIAŁA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\dawid\Desktop\ZSI — kopia\ProjZSi DZIAŁA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dawid\Desktop\ZSI — kopia\ProjZSi DZIAŁA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\dawid\Desktop\ZSI — kopia\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\ZSI — kopia\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\dawid\Desktop\ZSI — kopia\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dawid\Desktop\ZSI — kopia\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\ZSI — kopia\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ZSI — kopia\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dawid\Desktop\ZSI — kopia\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\radja\Downloads\ProjZSi_DZIAA\ProjZSi DZIAŁA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\radja\Downloads\ProjZSi_DZIAA\ProjZSi DZIAŁA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\radja\Downloads\ProjZSi_DZIAA\ProjZSi DZIAŁA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\radja\Downloads\ProjZSi_DZIAA\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\radja\Downloads\ProjZSi_DZIAA\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\radja\Downloads\ProjZSi_DZIAA\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\radja\Downloads\ProjZSi_DZIAA\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\radja\Downloads\ProjZSi_DZIAA\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\radja\Downloads\ProjZSi_DZIAA\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\radja\Downloads\ProjZSi_DZIAA\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\dawid\Desktop\ProjZSi DZIAŁA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\dawid\Desktop\ProjZSi DZIAŁA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dawid\Desktop\ProjZSi DZIAŁA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\dawid\Desktop\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\dawid\Desktop\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dawid\Desktop\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dawid\Desktop\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\danie\Desktop\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\danie\Desktop\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\danie\Desktop\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\danie\Desktop\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\danie\Desktop\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\danie\Desktop\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\danie\Desktop\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\danie\Desktop\INFORMATYKA VII semestr\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\danie\Desktop\INFORMATYKA VII semestr\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\danie\Desktop\INFORMATYKA VII semestr\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\danie\Desktop\INFORMATYKA VII semestr\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\INFORMATYKA VII semestr\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\danie\Desktop\INFORMATYKA VII semestr\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\danie\Desktop\INFORMATYKA VII semestr\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\INFORMATYKA VII semestr\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\INFORMATYKA VII semestr\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\danie\Desktop\INFORMATYKA VII semestr\ZSI\TOOOO\ProjZSi DZIAŁA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\danie\Desktop\Etap4_ZSI\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\danie\Desktop\Etap4_ZSI\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\danie\Desktop\Etap4_ZSI\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\danie\Desktop\Etap4_ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Etap4_ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\danie\Desktop\Etap4_ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\danie\Desktop\Etap4_ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\Etap4_ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Etap4_ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\danie\Desktop\Etap4_ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\radja\Downloads\Etap4_ZSI\Etap4_ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\radja\Downloads\Etap4_ZSI\Etap4_ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\radja\Downloads\Etap4_ZSI\Etap4_ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\radja\Downloads\Etap4_ZSI\Etap4_ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\radja\Downloads\Etap4_ZSI\Etap4_ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\radja\Downloads\Etap4_ZSI\Etap4_ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\radja\Downloads\Etap4_ZSI\Etap4_ZSI\ProjZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\radja\Downloads\Etap4_ZSI\Etap4_ZSI\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\radja\Downloads\Etap4_ZSI\Etap4_ZSI\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\radja\Downloads\Etap4_ZSI\Etap4_ZSI\ProjZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\danie\Desktop\Etap4_ZSI\Etap4_ZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\danie\Desktop\Etap4_ZSI\Etap4_ZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\danie\Desktop\Etap4_ZSI\Etap4_ZSI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\danie\Desktop\Etap4_ZSI\Etap4_ZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Etap4_ZSI\Etap4_ZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\danie\Desktop\Etap4_ZSI\Etap4_ZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\danie\Desktop\Etap4_ZSI\Etap4_ZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\Etap4_ZSI\Etap4_ZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Etap4_ZSI\Etap4_ZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\danie\Desktop\Etap4_ZSI\Etap4_ZSI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
